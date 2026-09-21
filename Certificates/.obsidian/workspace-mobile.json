@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "fbcfa1c43e79dfc7",
+    "id": "ce67fddfc5f33755",
     "type": "split",
     "children": [
       {
-        "id": "c8cedadcd6443a4f",
+        "id": "f1c75f2ebe616667",
         "type": "tabs",
         "children": [
           {
-            "id": "06e43e1baced67ae",
+            "id": "284e36429e367356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Goals/2026-08 -04.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08 -04"
-            }
-          },
-          {
-            "id": "782098e86f76440e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Sudhan/Personal details.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal details"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b52e919930df39c2",
+    "id": "557042ded4ad85fb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5171a76a89b9ce42",
+        "id": "c43e04f103dd1482",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -61,7 +46,7 @@
         }
       },
       {
-        "id": "fea6760493407d14",
+        "id": "7b914f40c5206aa0",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -78,7 +63,7 @@
         }
       },
       {
-        "id": "a134f0c08f28dee2",
+        "id": "b4df39f038cec38e",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -93,7 +78,7 @@
         }
       },
       {
-        "id": "65909c43f98a42f7",
+        "id": "c161db1d676331cf",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -107,11 +92,14 @@
         }
       },
       {
-        "id": "85147e74728953f9",
+        "id": "ed3907d586e07fd7",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -120,16 +108,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4cab09e3702d298a",
+    "id": "99aa0d9cb92169e0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4daf131d8a42d5c4",
+        "id": "55cc187841783e3a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Goals/2026-08 -04.md",
+            "file": "Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,12 +131,12 @@
         }
       },
       {
-        "id": "73f8c4038f8ab2fa",
+        "id": "6f10c478e4fa4539",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -157,12 +145,12 @@
         }
       },
       {
-        "id": "3bac68640712fbc0",
+        "id": "fcaca0f4e6595bd0",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md",
+            "file": "Index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,30 +173,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "782098e86f76440e",
+  "active": "284e36429e367356",
   "lastOpenFiles": [
-    "Tasks.md",
-    "People/Sudhan/Personal details.md",
-    "People/Sudhan",
-    "People",
-    "Daily Goals/2026-08 -04.md",
-    "Daily Goals/2026-08-03.md",
-    "Daily Goals/2026-07-31.md",
-    "Daily Goals/2026-07-27.md",
-    "Daily Goals/2026-08 -03.md",
-    "2026-07-30.md",
-    "Daily Goals/2026-07-29.md",
-    "Net exam/Plan.md",
-    "Huddle meet.md",
-    "Net exam",
-    "Daily Goals/DAILY_GOALS_TEMPLATE.md",
-    "Untitled.md",
-    "Daily Goals/2026-07-30.md",
-    "2026-07-29.md",
-    "Daily Goals/2026-07-28.md",
-    "Daily Goals/2026-07-26.md",
-    "2026-07-27.md",
-    "Test.md",
-    "Daily Goals"
+    "Index.md"
   ]
 }

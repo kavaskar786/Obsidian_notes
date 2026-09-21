@@ -1,0 +1,29 @@
+- [ ] Personal proofs originals(Shakthi school pg 1)
+	- [ ] income certificate 
+	- [ ] birth certificate 
+	- [ ] community certificate 
+	- [ ] native certificate 
+- [ ] professional govt certificates (Shakthi school pg 2)
+	- [ ] employment certificate 
+- [ ] personal proofs xeroxes (pg 3)
+	- [ ] income certificate (child)
+	- [ ] birth certificate 
+	- [ ] income certificate 
+	- [ ] nativity certificate 
+	- [ ] community certificate 
+	- [ ] aadhar card (child)
+	- [ ] covid vaccine cert 
+- [ ] Marklist Xeroxs (pg 4)
+	- [ ] 10th MS
+	- [ ] PSG cert till 2 sem
+- [ ] Applications xeroxes (pg5)
+	- [ ] Athar name changing application
+	- [ ] National Scholarship application
+- [ ] Educational Certificate xerox (pg 6)
+	- [ ] TC from PSG
+	- [ ] provisional degree cert from PSG
+- [ ] Job certificates(pg 7)
+	- [ ] M1C solution intership(vekora)
+- [ ] resumes (pg 8)
+	- [ ] neet photo
+	- [ ] passbook
